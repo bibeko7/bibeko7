@@ -1,7 +1,7 @@
 # Hi, I'm Bibek 👋
 
 🎓 B.Tech Computer Science Engineering Student (2023–2027)
-📊 Aspiring Data Scientist & Full Stack Developer
+📊 Aspiring AI engineer & software Developer (Self)
 🤖 Passionate about AI, Machine Learning & Scalable Applications
 
 🌐 **Portfolio:** https://www.bibeksah07.com.np/
