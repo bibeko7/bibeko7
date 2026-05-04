@@ -108,7 +108,7 @@ Aspiring Computer Science undergraduate with a strong foundation in Data Structu
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibeko7&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibeko7&show_icons=true&theme=radical)
 
 ---
 
