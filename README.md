@@ -66,9 +66,8 @@ Aspiring Computer Science undergraduate with a strong foundation in Data Structu
 
 * Implemented BFS, DFS, and A* algorithms
 * Applied heuristics for optimization
-* Developed Android app for solving puzzles
-  🔗 https://github.com/bibeko7/8-puzzle-game
-  🔗 Game download link https://github.com/bibeko7/8-puzzle-game/releases/download/v1.1/app-release.apk
+*🔗 https://github.com/bibeko7/8-puzzle-game
+*🔗 Game download link https://github.com/bibeko7/8-puzzle-game/releases/download/v1.1/app-release.apk
 
 ---
 
